@@ -1,1 +1,1 @@
-# pritesh-portfolia
+# pritesh-portfolio
